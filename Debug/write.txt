@@ -1,0 +1,192 @@
+
+ID: 0  c: A  mask: 1  ch: 1
+ID: 0  temp: 88  intermed[0][0]: 89
+
+
+ID: 0  c: A  mask: 2  ch: 0
+ID: 0  temp: 92  intermed[0][1]: 92
+
+
+ID: 0  c: A  mask: 4  ch: 0
+ID: 0  temp: 94  intermed[0][2]: 94
+
+
+ID: 0  c: A  mask: 8  ch: 0
+ID: 0  temp: 94  intermed[0][3]: 94
+
+
+ID: 0  c: A  mask: 16  ch: 0
+ID: 0  temp: 96  intermed[0][4]: 96
+
+
+ID: 0  c: A  mask: 32  ch: 0
+ID: 0  temp: 102  intermed[0][5]: 102
+
+
+ID: 0  c: A  mask: 64  ch: 1
+ID: 0  temp: 106  intermed[0][6]: 107
+
+
+ID: 0  c: A  mask: 128  ch: 0
+ID: 0  temp: 108  intermed[0][7]: 108
+
+
+ID: 0  c: b  mask: 1  ch: 0
+ID: 0  temp: 106  intermed[0][8]: 106
+
+
+ID: 0  c: b  mask: 2  ch: 1
+ID: 0  temp: 106  intermed[0][9]: 107
+
+
+ID: 0  c: b  mask: 4  ch: 0
+ID: 0  temp: 106  intermed[0][10]: 106
+
+
+ID: 0  c: b  mask: 8  ch: 0
+ID: 0  temp: 104  intermed[0][11]: 104
+
+
+ID: 0  c: b  mask: 16  ch: 0
+ID: 0  temp: 104  intermed[0][12]: 104
+
+
+ID: 0  c: b  mask: 32  ch: 1
+ID: 0  temp: 106  intermed[0][13]: 107
+
+
+ID: 0  c: b  mask: 64  ch: 1
+ID: 0  temp: 112  intermed[0][14]: 113
+
+
+ID: 0  c: b  mask: 128  ch: 0
+ID: 0  temp: 118  intermed[0][15]: 118
+
+
+ID: 0  c: c  mask: 1  ch: 1
+ID: 0  temp: 98  intermed[0][16]: 99
+
+
+ID: 0  c: c  mask: 2  ch: 1
+ID: 0  temp: 92  intermed[0][17]: 93
+
+
+ID: 0  c: c  mask: 4  ch: 0
+ID: 0  temp: 106  intermed[0][18]: 106
+
+
+ID: 0  c: c  mask: 8  ch: 0
+ID: 0  temp: 128  intermed[0][19]: 128
+
+
+ID: 0  c: c  mask: 16  ch: 0
+ID: 0  temp: 130  intermed[0][20]: 130
+
+
+ID: 0  c: c  mask: 32  ch: 1
+ID: 0  temp: 120  intermed[0][21]: 121
+
+
+ID: 0  c: c  mask: 64  ch: 1
+ID: 0  temp: 106  intermed[0][22]: 107
+
+
+ID: 0  c: c  mask: 128  ch: 0
+ID: 0  temp: 94  intermed[0][23]: 94
+
+
+ID: 0  c: d  mask: 1  ch: 0
+ID: 0  temp: 98  intermed[0][24]: 98
+
+
+ID: 0  c: d  mask: 2  ch: 0
+ID: 0  temp: 84  intermed[0][25]: 84
+
+
+ID: 0  c: d  mask: 4  ch: 1
+ID: 0  temp: 88  intermed[0][26]: 89
+
+
+ID: 0  c: d  mask: 8  ch: 0
+ID: 0  temp: 82  intermed[0][27]: 82
+
+
+ID: 0  c: d  mask: 16  ch: 0
+ID: 0  temp: 78  intermed[0][28]: 78
+
+
+ID: 0  c: d  mask: 32  ch: 1
+ID: 0  temp: 82  intermed[0][29]: 83
+
+
+ID: 0  c: d  mask: 64  ch: 1
+ID: 0  temp: 74  intermed[0][30]: 75
+
+
+ID: 0  c: d  mask: 128  ch: 0
+ID: 0  temp: 70  intermed[0][31]: 70
+
+
+ID: 0  c:    mask: 1  ch: 0
+ID: 0  temp: 78  intermed[0][32]: 78
+
+
+ID: 0  c:    mask: 2  ch: 0
+ID: 0  temp: 82  intermed[0][33]: 82
+
+
+ID: 0  c:    mask: 4  ch: 0
+ID: 0  temp: 82  intermed[0][34]: 82
+
+
+ID: 0  c:    mask: 8  ch: 0
+ID: 0  temp: 84  intermed[0][35]: 84
+
+
+ID: 0  c:    mask: 16  ch: 0
+ID: 0  temp: 84  intermed[0][36]: 84
+
+
+ID: 0  c:    mask: 32  ch: 1
+ID: 0  temp: 70  intermed[0][37]: 71
+
+
+ID: 0  c:    mask: 64  ch: 0
+ID: 0  temp: 64  intermed[0][38]: 64
+
+
+ID: 0  c:    mask: 128  ch: 0
+ID: 0  temp: 72  intermed[0][39]: 72
+
+
+ID: 0  c: E  mask: 1  ch: 1
+ID: 0  temp: 92  intermed[0][40]: 93
+
+
+ID: 0  c: E  mask: 2  ch: 0
+ID: 0  temp: 86  intermed[0][41]: 86
+
+
+ID: 0  c: E  mask: 4  ch: 1
+ID: 0  temp: 72  intermed[0][42]: 73
+
+
+ID: 0  c: E  mask: 8  ch: 0
+ID: 0  temp: 78  intermed[0][43]: 78
+
+
+ID: 0  c: E  mask: 16  ch: 0
+ID: 0  temp: 80  intermed[0][44]: 80
+
+
+ID: 0  c: E  mask: 32  ch: 0
+ID: 0  temp: 72  intermed[0][45]: 72
+
+
+ID: 0  c: E  mask: 64  ch: 1
+ID: 0  temp: 78  intermed[0][46]: 79
+
+
+ID: 0  c: E  mask: 128  ch: 0
+ID: 0  temp: 78  intermed[0][47]: 78
+

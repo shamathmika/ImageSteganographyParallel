@@ -1,0 +1,9 @@
+﻿  Source1.cpp
+d:\visual studio projects\steganography\steganography\source1.cpp(33): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+d:\visual studio projects\steganography\steganography\source1.cpp(41): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+d:\visual studio projects\steganography\steganography\source1.cpp(133): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+  Steganography.vcxproj -> D:\Visual Studio Projects\Steganography\Debug\Steganography.exe
+  Steganography.vcxproj -> D:\Visual Studio Projects\Steganography\Debug\Steganography.pdb (Partial PDB)
